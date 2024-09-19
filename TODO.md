@@ -1,0 +1,4 @@
+- Test cases: Use pytest with static time series datasets to create tests
+- Dataset: Prepare your time series dataset for training with normalization using train_loader.
+- Evaluation: Implement evaluation metrics and validation loops to measure model performance.
+- Hyperparameter Tuning: Adjust embedding sizes, learning rate, number of layers, etc., based on the task at hand.
